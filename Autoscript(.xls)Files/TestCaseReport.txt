@@ -1,0 +1,1167 @@
+contextMenuIcon fa fa-ellipsis-v
+
+//span[contains(.,'Advanced')]
+
+//868183
+245613 [main] INFO com.zephyr.reusablemethods.CreateTestCasePage  - Pass-Successfully Test Case Name and Description is Added
+245613 [main] INFO com.zephyr.reusablemethods.CreateTestCasePage  - Pass-Successfully Test Case Name and Description is Added
+245613 [main] INFO com.zephyr.reusablemethods.CreateTestCasePage  - Pass-Successfully Test Case Name and Description is Added
+245613 [main] INFO com.zephyr.reusablemethods.CreateTestCasePage  - Pass-Successfully Test Case Name and Description is Added
+245613 [main] INFO com.zephyr.reusablemethods.CreateTestCasePage  - Pass-Successfully Test Case Name and Description is Added
+245613 [main] INFO com.zephyr.reusablemethods.CreateTestCasePage  - Pass-Successfully Test Case Name and Description is Added
+245613 [main] INFO com.zephyr.reusablemethods.CreateTestCasePage  - Pass-Successfully Test Case Name and Description is Added
+245613 [main] INFO com.zephyr.reusablemethods.CreateTestCasePage  - Pass-Successfully Test Case Name and Description is Added
+245613 [main] INFO com.zephyr.reusablemethods.CreateTestCasePage  - Pass-Successfully Test Case Name and Description is Added
+245613 [main] INFO com.zephyr.reusablemethods.CreateTestCasePage  - Pass-Successfully Test Case Name and Description is Added
+245613 [main] INFO com.zephyr.reusablemethods.CreateTestCasePage  - Pass-Successfully Test Case Name and Description is Added
+267402 [main] INFO com.zephyr.reusablemethods.TestRepositoryPage  - Pass-Test Case Successfully Added
+267402 [main] INFO com.zephyr.reusablemethods.TestRepositoryPage  - Pass-Test Case Successfully Added
+267402 [main] INFO com.zephyr.reusablemethods.TestRepositoryPage  - Pass-Test Case Successfully Added
+267402 [main] INFO com.zephyr.reusablemethods.TestRepositoryPage  - Pass-Test Case Successfully Added
+267402 [main] INFO com.zephyr.reusablemethods.TestRepositoryPage  - Pass-Test Case Successfully Added
+267402 [main] INFO com.zephyr.reusablemethods.TestRepositoryPage  - Pass-Test Case Successfully Added
+267402 [main] INFO com.zephyr.reusablemethods.TestRepositoryPage  - Pass-Test Case Successfully Added
+267402 [main] INFO com.zephyr.reusablemethods.TestRepositoryPage  - Pass-Test Case Successfully Added
+267402 [main] INFO com.zephyr.reusablemethods.TestRepositoryPage  - Pass-Test Case Successfully Added
+267402 [main] INFO com.zephyr.reusablemethods.TestRepositoryPage  - Pass-Test Case Successfully Added
+267402 [main] INFO com.zephyr.reusablemethods.TestRepositoryPage  - Pass-Test Case Successfully Added
+267402 [main] INFO com.zephyr.reusablemethods.TestRepositoryPage  - Pass-Test Case Successfully Added
+271094 [main] INFO com.zephyr.reusablemethods.TestRepositoryPage  - Pass-User is on Test Case Detail Page
+271094 [main] INFO com.zephyr.reusablemethods.TestRepositoryPage  - Pass-User is on Test Case Detail Page
+271094 [main] INFO com.zephyr.reusablemethods.TestRepositoryPage  - Pass-User is on Test Case Detail Page
+271094 [main] INFO com.zephyr.reusablemethods.TestRepositoryPage  - Pass-User is on Test Case Detail Page
+271094 [main] INFO com.zephyr.reusablemethods.TestRepositoryPage  - Pass-User is on Test Case Detail Page
+271094 [main] INFO com.zephyr.reusablemethods.TestRepositoryPage  - Pass-User is on Test Case Detail Page
+271094 [main] INFO com.zephyr.reusablemethods.TestRepositoryPage  - Pass-User is on Test Case Detail Page
+271094 [main] INFO com.zephyr.reusablemethods.TestRepositoryPage  - Pass-User is on Test Case Detail Page
+271094 [main] INFO com.zephyr.reusablemethods.TestRepositoryPage  - Pass-User is on Test Case Detail Page
+271094 [main] INFO com.zephyr.reusablemethods.TestRepositoryPage  - Pass-User is on Test Case Detail Page
+271094 [main] INFO com.zephyr.reusablemethods.TestRepositoryPage  - Pass-User is on Test Case Detail Page
+271094 [main] INFO com.zephyr.reusablemethods.TestRepositoryPage  - Pass-User is on Test Case Detail Page
+290127 [main] INFO com.zephyr.reusablemethods.CreateTestCasePage  - Pass-Successfully Test Case Name and Description is Added
+290127 [main] INFO com.zephyr.reusablemethods.CreateTestCasePage  - Pass-Successfully Test Case Name and Description is Added
+290127 [main] INFO com.zephyr.reusablemethods.CreateTestCasePage  - Pass-Successfully Test Case Name and Description is Added
+290127 [main] INFO com.zephyr.reusablemethods.CreateTestCasePage  - Pass-Successfully Test Case Name and Description is Added
+290127 [main] INFO com.zephyr.reusablemethods.CreateTestCasePage  - Pass-Successfully Test Case Name and Description is Added
+290127 [main] INFO com.zephyr.reusablemethods.CreateTestCasePage  - Pass-Successfully Test Case Name and Description is Added
+290127 [main] INFO com.zephyr.reusablemethods.CreateTestCasePage  - Pass-Successfully Test Case Name and Description is Added
+290127 [main] INFO com.zephyr.reusablemethods.CreateTestCasePage  - Pass-Successfully Test Case Name and Description is Added
+290127 [main] INFO com.zephyr.reusablemethods.CreateTestCasePage  - Pass-Successfully Test Case Name and Description is Added
+290127 [main] INFO com.zephyr.reusablemethods.CreateTestCasePage  - Pass-Successfully Test Case Name and Description is Added
+290127 [main] INFO com.zephyr.reusablemethods.CreateTestCasePage  - Pass-Successfully Test Case Name and Description is Added
+290127 [main] INFO com.zephyr.reusablemethods.CreateTestCasePage  - Pass-Successfully Test Case Name and Description is Added
+290127 [main] INFO com.zephyr.reusablemethods.CreateTestCasePage  - Pass-Successfully Test Case Name and Description is Added
+311902 [main] INFO com.zephyr.reusablemethods.TestRepositoryPage  - Pass-Test Case Successfully Added
+311902 [main] INFO com.zephyr.reusablemethods.TestRepositoryPage  - Pass-Test Case Successfully Added
+311902 [main] INFO com.zephyr.reusablemethods.TestRepositoryPage  - Pass-Test Case Successfully Added
+311902 [main] INFO com.zephyr.reusablemethods.TestRepositoryPage  - Pass-Test Case Successfully Added
+311902 [main] INFO com.zephyr.reusablemethods.TestRepositoryPage  - Pass-Test Case Successfully Added
+311902 [main] INFO com.zephyr.reusablemethods.TestRepositoryPage  - Pass-Test Case Successfully Added
+311902 [main] INFO com.zephyr.reusablemethods.TestRepositoryPage  - Pass-Test Case Successfully Added
+311902 [main] INFO com.zephyr.reusablemethods.TestRepositoryPage  - Pass-Test Case Successfully Added
+311902 [main] INFO com.zephyr.reusablemethods.TestRepositoryPage  - Pass-Test Case Successfully Added
+311902 [main] INFO com.zephyr.reusablemethods.TestRepositoryPage  - Pass-Test Case Successfully Added
+311902 [main] INFO com.zephyr.reusablemethods.TestRepositoryPage  - Pass-Test Case Successfully Added
+311902 [main] INFO com.zephyr.reusablemethods.TestRepositoryPage  - Pass-Test Case Successfully Added
+311902 [main] INFO com.zephyr.reusablemethods.TestRepositoryPage  - Pass-Test Case Successfully Added
+312661 [main] INFO com.zephyr.reusablemethods.TestRepositoryPage  - Pass-User is on Test Case Detail Page
+312661 [main] INFO com.zephyr.reusablemethods.TestRepositoryPage  - Pass-User is on Test Case Detail Page
+312661 [main] INFO com.zephyr.reusablemethods.TestRepositoryPage  - Pass-User is on Test Case Detail Page
+312661 [main] INFO com.zephyr.reusablemethods.TestRepositoryPage  - Pass-User is on Test Case Detail Page
+312661 [main] INFO com.zephyr.reusablemethods.TestRepositoryPage  - Pass-User is on Test Case Detail Page
+312661 [main] INFO com.zephyr.reusablemethods.TestRepositoryPage  - Pass-User is on Test Case Detail Page
+312661 [main] INFO com.zephyr.reusablemethods.TestRepositoryPage  - Pass-User is on Test Case Detail Page
+312661 [main] INFO com.zephyr.reusablemethods.TestRepositoryPage  - Pass-User is on Test Case Detail Page
+312661 [main] INFO com.zephyr.reusablemethods.TestRepositoryPage  - Pass-User is on Test Case Detail Page
+312661 [main] INFO com.zephyr.reusablemethods.TestRepositoryPage  - Pass-User is on Test Case Detail Page
+312661 [main] INFO com.zephyr.reusablemethods.TestRepositoryPage  - Pass-User is on Test Case Detail Page
+312661 [main] INFO com.zephyr.reusablemethods.TestRepositoryPage  - Pass-User is on Test Case Detail Page
+312661 [main] INFO com.zephyr.reusablemethods.TestRepositoryPage  - Pass-User is on Test Case Detail Page
+331596 [main] INFO com.zephyr.reusablemethods.CreateTestCasePage  - Pass-Successfully Test Case Name and Description is Added
+331596 [main] INFO com.zephyr.reusablemethods.CreateTestCasePage  - Pass-Successfully Test Case Name and Description is Added
+331596 [main] INFO com.zephyr.reusablemethods.CreateTestCasePage  - Pass-Successfully Test Case Name and Description is Added
+331596 [main] INFO com.zephyr.reusablemethods.CreateTestCasePage  - Pass-Successfully Test Case Name and Description is Added
+331596 [main] INFO com.zephyr.reusablemethods.CreateTestCasePage  - Pass-Successfully Test Case Name and Description is Added
+331596 [main] INFO com.zephyr.reusablemethods.CreateTestCasePage  - Pass-Successfully Test Case Name and Description is Added
+331596 [main] INFO com.zephyr.reusablemethods.CreateTestCasePage  - Pass-Successfully Test Case Name and Description is Added
+331596 [main] INFO com.zephyr.reusablemethods.CreateTestCasePage  - Pass-Successfully Test Case Name and Description is Added
+331596 [main] INFO com.zephyr.reusablemethods.CreateTestCasePage  - Pass-Successfully Test Case Name and Description is Added
+331596 [main] INFO com.zephyr.reusablemethods.CreateTestCasePage  - Pass-Successfully Test Case Name and Description is Added
+331596 [main] INFO com.zephyr.reusablemethods.CreateTestCasePage  - Pass-Successfully Test Case Name and Description is Added
+331596 [main] INFO com.zephyr.reusablemethods.CreateTestCasePage  - Pass-Successfully Test Case Name and Description is Added
+331596 [main] INFO com.zephyr.reusablemethods.CreateTestCasePage  - Pass-Successfully Test Case Name and Description is Added
+331596 [main] INFO com.zephyr.reusablemethods.CreateTestCasePage  - Pass-Successfully Test Case Name and Description is Added
+353456 [main] INFO com.zephyr.reusablemethods.TestRepositoryPage  - Pass-Test Case Successfully Added
+353456 [main] INFO com.zephyr.reusablemethods.TestRepositoryPage  - Pass-Test Case Successfully Added
+353456 [main] INFO com.zephyr.reusablemethods.TestRepositoryPage  - Pass-Test Case Successfully Added
+353456 [main] INFO com.zephyr.reusablemethods.TestRepositoryPage  - Pass-Test Case Successfully Added
+353456 [main] INFO com.zephyr.reusablemethods.TestRepositoryPage  - Pass-Test Case Successfully Added
+353456 [main] INFO com.zephyr.reusablemethods.TestRepositoryPage  - Pass-Test Case Successfully Added
+353456 [main] INFO com.zephyr.reusablemethods.TestRepositoryPage  - Pass-Test Case Successfully Added
+353456 [main] INFO com.zephyr.reusablemethods.TestRepositoryPage  - Pass-Test Case Successfully Added
+353456 [main] INFO com.zephyr.reusablemethods.TestRepositoryPage  - Pass-Test Case Successfully Added
+353456 [main] INFO com.zephyr.reusablemethods.TestRepositoryPage  - Pass-Test Case Successfully Added
+353456 [main] INFO com.zephyr.reusablemethods.TestRepositoryPage  - Pass-Test Case Successfully Added
+353456 [main] INFO com.zephyr.reusablemethods.TestRepositoryPage  - Pass-Test Case Successfully Added
+353456 [main] INFO com.zephyr.reusablemethods.TestRepositoryPage  - Pass-Test Case Successfully Added
+353456 [main] INFO com.zephyr.reusablemethods.TestRepositoryPage  - Pass-Test Case Successfully Added
+354200 [main] INFO com.zephyr.reusablemethods.TestRepositoryPage  - Pass-User is on Test Case Detail Page
+354200 [main] INFO com.zephyr.reusablemethods.TestRepositoryPage  - Pass-User is on Test Case Detail Page
+354200 [main] INFO com.zephyr.reusablemethods.TestRepositoryPage  - Pass-User is on Test Case Detail Page
+354200 [main] INFO com.zephyr.reusablemethods.TestRepositoryPage  - Pass-User is on Test Case Detail Page
+354200 [main] INFO com.zephyr.reusablemethods.TestRepositoryPage  - Pass-User is on Test Case Detail Page
+354200 [main] INFO com.zephyr.reusablemethods.TestRepositoryPage  - Pass-User is on Test Case Detail Page
+354200 [main] INFO com.zephyr.reusablemethods.TestRepositoryPage  - Pass-User is on Test Case Detail Page
+354200 [main] INFO com.zephyr.reusablemethods.TestRepositoryPage  - Pass-User is on Test Case Detail Page
+354200 [main] INFO com.zephyr.reusablemethods.TestRepositoryPage  - Pass-User is on Test Case Detail Page
+354200 [main] INFO com.zephyr.reusablemethods.TestRepositoryPage  - Pass-User is on Test Case Detail Page
+354200 [main] INFO com.zephyr.reusablemethods.TestRepositoryPage  - Pass-User is on Test Case Detail Page
+354200 [main] INFO com.zephyr.reusablemethods.TestRepositoryPage  - Pass-User is on Test Case Detail Page
+354200 [main] INFO com.zephyr.reusablemethods.TestRepositoryPage  - Pass-User is on Test Case Detail Page
+354200 [main] INFO com.zephyr.reusablemethods.TestRepositoryPage  - Pass-User is on Test Case Detail Page
+373156 [main] INFO com.zephyr.reusablemethods.CreateTestCasePage  - Pass-Successfully Test Case Name and Description is Added
+373156 [main] INFO com.zephyr.reusablemethods.CreateTestCasePage  - Pass-Successfully Test Case Name and Description is Added
+373156 [main] INFO com.zephyr.reusablemethods.CreateTestCasePage  - Pass-Successfully Test Case Name and Description is Added
+373156 [main] INFO com.zephyr.reusablemethods.CreateTestCasePage  - Pass-Successfully Test Case Name and Description is Added
+373156 [main] INFO com.zephyr.reusablemethods.CreateTestCasePage  - Pass-Successfully Test Case Name and Description is Added
+373156 [main] INFO com.zephyr.reusablemethods.CreateTestCasePage  - Pass-Successfully Test Case Name and Description is Added
+373156 [main] INFO com.zephyr.reusablemethods.CreateTestCasePage  - Pass-Successfully Test Case Name and Description is Added
+373156 [main] INFO com.zephyr.reusablemethods.CreateTestCasePage  - Pass-Successfully Test Case Name and Description is Added
+373156 [main] INFO com.zephyr.reusablemethods.CreateTestCasePage  - Pass-Successfully Test Case Name and Description is Added
+373156 [main] INFO com.zephyr.reusablemethods.CreateTestCasePage  - Pass-Successfully Test Case Name and Description is Added
+373156 [main] INFO com.zephyr.reusablemethods.CreateTestCasePage  - Pass-Successfully Test Case Name and Description is Added
+373156 [main] INFO com.zephyr.reusablemethods.CreateTestCasePage  - Pass-Successfully Test Case Name and Description is Added
+373156 [main] INFO com.zephyr.reusablemethods.CreateTestCasePage  - Pass-Successfully Test Case Name and Description is Added
+373156 [main] INFO com.zephyr.reusablemethods.CreateTestCasePage  - Pass-Successfully Test Case Name and Description is Added
+373156 [main] INFO com.zephyr.reusablemethods.CreateTestCasePage  - Pass-Successfully Test Case Name and Description is Added
+391942 [main] INFO com.zephyr.reusablemethods.TestRepositoryPage  - Pass-Test Case Successfully Added
+391942 [main] INFO com.zephyr.reusablemethods.TestRepositoryPage  - Pass-Test Case Successfully Added
+391942 [main] INFO com.zephyr.reusablemethods.TestRepositoryPage  - Pass-Test Case Successfully Added
+391942 [main] INFO com.zephyr.reusablemethods.TestRepositoryPage  - Pass-Test Case Successfully Added
+391942 [main] INFO com.zephyr.reusablemethods.TestRepositoryPage  - Pass-Test Case Successfully Added
+391942 [main] INFO com.zephyr.reusablemethods.TestRepositoryPage  - Pass-Test Case Successfully Added
+391942 [main] INFO com.zephyr.reusablemethods.TestRepositoryPage  - Pass-Test Case Successfully Added
+391942 [main] INFO com.zephyr.reusablemethods.TestRepositoryPage  - Pass-Test Case Successfully Added
+391942 [main] INFO com.zephyr.reusablemethods.TestRepositoryPage  - Pass-Test Case Successfully Added
+391942 [main] INFO com.zephyr.reusablemethods.TestRepositoryPage  - Pass-Test Case Successfully Added
+391942 [main] INFO com.zephyr.reusablemethods.TestRepositoryPage  - Pass-Test Case Successfully Added
+391942 [main] INFO com.zephyr.reusablemethods.TestRepositoryPage  - Pass-Test Case Successfully Added
+391942 [main] INFO com.zephyr.reusablemethods.TestRepositoryPage  - Pass-Test Case Successfully Added
+391942 [main] INFO com.zephyr.reusablemethods.TestRepositoryPage  - Pass-Test Case Successfully Added
+391942 [main] INFO com.zephyr.reusablemethods.TestRepositoryPage  - Pass-Test Case Successfully Added
+392722 [main] INFO com.zephyr.reusablemethods.TestRepositoryPage  - Pass-User is on Test Case Detail Page
+392722 [main] INFO com.zephyr.reusablemethods.TestRepositoryPage  - Pass-User is on Test Case Detail Page
+392722 [main] INFO com.zephyr.reusablemethods.TestRepositoryPage  - Pass-User is on Test Case Detail Page
+392722 [main] INFO com.zephyr.reusablemethods.TestRepositoryPage  - Pass-User is on Test Case Detail Page
+392722 [main] INFO com.zephyr.reusablemethods.TestRepositoryPage  - Pass-User is on Test Case Detail Page
+392722 [main] INFO com.zephyr.reusablemethods.TestRepositoryPage  - Pass-User is on Test Case Detail Page
+392722 [main] INFO com.zephyr.reusablemethods.TestRepositoryPage  - Pass-User is on Test Case Detail Page
+392722 [main] INFO com.zephyr.reusablemethods.TestRepositoryPage  - Pass-User is on Test Case Detail Page
+392722 [main] INFO com.zephyr.reusablemethods.TestRepositoryPage  - Pass-User is on Test Case Detail Page
+392722 [main] INFO com.zephyr.reusablemethods.TestRepositoryPage  - Pass-User is on Test Case Detail Page
+392722 [main] INFO com.zephyr.reusablemethods.TestRepositoryPage  - Pass-User is on Test Case Detail Page
+392722 [main] INFO com.zephyr.reusablemethods.TestRepositoryPage  - Pass-User is on Test Case Detail Page
+392722 [main] INFO com.zephyr.reusablemethods.TestRepositoryPage  - Pass-User is on Test Case Detail Page
+392722 [main] INFO com.zephyr.reusablemethods.TestRepositoryPage  - Pass-User is on Test Case Detail Page
+392722 [main] INFO com.zephyr.reusablemethods.TestRepositoryPage  - Pass-User is on Test Case Detail Page
+411524 [main] INFO com.zephyr.reusablemethods.CreateTestCasePage  - Pass-Successfully Test Case Name and Description is Added
+411524 [main] INFO com.zephyr.reusablemethods.CreateTestCasePage  - Pass-Successfully Test Case Name and Description is Added
+411524 [main] INFO com.zephyr.reusablemethods.CreateTestCasePage  - Pass-Successfully Test Case Name and Description is Added
+411524 [main] INFO com.zephyr.reusablemethods.CreateTestCasePage  - Pass-Successfully Test Case Name and Description is Added
+411524 [main] INFO com.zephyr.reusablemethods.CreateTestCasePage  - Pass-Successfully Test Case Name and Description is Added
+411524 [main] INFO com.zephyr.reusablemethods.CreateTestCasePage  - Pass-Successfully Test Case Name and Description is Added
+411524 [main] INFO com.zephyr.reusablemethods.CreateTestCasePage  - Pass-Successfully Test Case Name and Description is Added
+411524 [main] INFO com.zephyr.reusablemethods.CreateTestCasePage  - Pass-Successfully Test Case Name and Description is Added
+411524 [main] INFO com.zephyr.reusablemethods.CreateTestCasePage  - Pass-Successfully Test Case Name and Description is Added
+411524 [main] INFO com.zephyr.reusablemethods.CreateTestCasePage  - Pass-Successfully Test Case Name and Description is Added
+411524 [main] INFO com.zephyr.reusablemethods.CreateTestCasePage  - Pass-Successfully Test Case Name and Description is Added
+411524 [main] INFO com.zephyr.reusablemethods.CreateTestCasePage  - Pass-Successfully Test Case Name and Description is Added
+411524 [main] INFO com.zephyr.reusablemethods.CreateTestCasePage  - Pass-Successfully Test Case Name and Description is Added
+411524 [main] INFO com.zephyr.reusablemethods.CreateTestCasePage  - Pass-Successfully Test Case Name and Description is Added
+411524 [main] INFO com.zephyr.reusablemethods.CreateTestCasePage  - Pass-Successfully Test Case Name and Description is Added
+411524 [main] INFO com.zephyr.reusablemethods.CreateTestCasePage  - Pass-Successfully Test Case Name and Description is Added
+430332 [main] INFO com.zephyr.reusablemethods.TestRepositoryPage  - Pass-Test Case Successfully Added
+430332 [main] INFO com.zephyr.reusablemethods.TestRepositoryPage  - Pass-Test Case Successfully Added
+430332 [main] INFO com.zephyr.reusablemethods.TestRepositoryPage  - Pass-Test Case Successfully Added
+430332 [main] INFO com.zephyr.reusablemethods.TestRepositoryPage  - Pass-Test Case Successfully Added
+430332 [main] INFO com.zephyr.reusablemethods.TestRepositoryPage  - Pass-Test Case Successfully Added
+430332 [main] INFO com.zephyr.reusablemethods.TestRepositoryPage  - Pass-Test Case Successfully Added
+430332 [main] INFO com.zephyr.reusablemethods.TestRepositoryPage  - Pass-Test Case Successfully Added
+430332 [main] INFO com.zephyr.reusablemethods.TestRepositoryPage  - Pass-Test Case Successfully Added
+430332 [main] INFO com.zephyr.reusablemethods.TestRepositoryPage  - Pass-Test Case Successfully Added
+430332 [main] INFO com.zephyr.reusablemethods.TestRepositoryPage  - Pass-Test Case Successfully Added
+430332 [main] INFO com.zephyr.reusablemethods.TestRepositoryPage  - Pass-Test Case Successfully Added
+430332 [main] INFO com.zephyr.reusablemethods.TestRepositoryPage  - Pass-Test Case Successfully Added
+430332 [main] INFO com.zephyr.reusablemethods.TestRepositoryPage  - Pass-Test Case Successfully Added
+430332 [main] INFO com.zephyr.reusablemethods.TestRepositoryPage  - Pass-Test Case Successfully Added
+430332 [main] INFO com.zephyr.reusablemethods.TestRepositoryPage  - Pass-Test Case Successfully Added
+430332 [main] INFO com.zephyr.reusablemethods.TestRepositoryPage  - Pass-Test Case Successfully Added
+431116 [main] INFO com.zephyr.reusablemethods.TestRepositoryPage  - Pass-User is on Test Case Detail Page
+431116 [main] INFO com.zephyr.reusablemethods.TestRepositoryPage  - Pass-User is on Test Case Detail Page
+431116 [main] INFO com.zephyr.reusablemethods.TestRepositoryPage  - Pass-User is on Test Case Detail Page
+431116 [main] INFO com.zephyr.reusablemethods.TestRepositoryPage  - Pass-User is on Test Case Detail Page
+431116 [main] INFO com.zephyr.reusablemethods.TestRepositoryPage  - Pass-User is on Test Case Detail Page
+431116 [main] INFO com.zephyr.reusablemethods.TestRepositoryPage  - Pass-User is on Test Case Detail Page
+431116 [main] INFO com.zephyr.reusablemethods.TestRepositoryPage  - Pass-User is on Test Case Detail Page
+431116 [main] INFO com.zephyr.reusablemethods.TestRepositoryPage  - Pass-User is on Test Case Detail Page
+431116 [main] INFO com.zephyr.reusablemethods.TestRepositoryPage  - Pass-User is on Test Case Detail Page
+431116 [main] INFO com.zephyr.reusablemethods.TestRepositoryPage  - Pass-User is on Test Case Detail Page
+431116 [main] INFO com.zephyr.reusablemethods.TestRepositoryPage  - Pass-User is on Test Case Detail Page
+431116 [main] INFO com.zephyr.reusablemethods.TestRepositoryPage  - Pass-User is on Test Case Detail Page
+431116 [main] INFO com.zephyr.reusablemethods.TestRepositoryPage  - Pass-User is on Test Case Detail Page
+431116 [main] INFO com.zephyr.reusablemethods.TestRepositoryPage  - Pass-User is on Test Case Detail Page
+431116 [main] INFO com.zephyr.reusablemethods.TestRepositoryPage  - Pass-User is on Test Case Detail Page
+431116 [main] INFO com.zephyr.reusablemethods.TestRepositoryPage  - Pass-User is on Test Case Detail Page
+450444 [main] INFO com.zephyr.reusablemethods.CreateTestCasePage  - Pass-Successfully Test Case Name and Description is Added
+450444 [main] INFO com.zephyr.reusablemethods.CreateTestCasePage  - Pass-Successfully Test Case Name and Description is Added
+450444 [main] INFO com.zephyr.reusablemethods.CreateTestCasePage  - Pass-Successfully Test Case Name and Description is Added
+450444 [main] INFO com.zephyr.reusablemethods.CreateTestCasePage  - Pass-Successfully Test Case Name and Description is Added
+450444 [main] INFO com.zephyr.reusablemethods.CreateTestCasePage  - Pass-Successfully Test Case Name and Description is Added
+450444 [main] INFO com.zephyr.reusablemethods.CreateTestCasePage  - Pass-Successfully Test Case Name and Description is Added
+450444 [main] INFO com.zephyr.reusablemethods.CreateTestCasePage  - Pass-Successfully Test Case Name and Description is Added
+450444 [main] INFO com.zephyr.reusablemethods.CreateTestCasePage  - Pass-Successfully Test Case Name and Description is Added
+450444 [main] INFO com.zephyr.reusablemethods.CreateTestCasePage  - Pass-Successfully Test Case Name and Description is Added
+450444 [main] INFO com.zephyr.reusablemethods.CreateTestCasePage  - Pass-Successfully Test Case Name and Description is Added
+450444 [main] INFO com.zephyr.reusablemethods.CreateTestCasePage  - Pass-Successfully Test Case Name and Description is Added
+450444 [main] INFO com.zephyr.reusablemethods.CreateTestCasePage  - Pass-Successfully Test Case Name and Description is Added
+450444 [main] INFO com.zephyr.reusablemethods.CreateTestCasePage  - Pass-Successfully Test Case Name and Description is Added
+450444 [main] INFO com.zephyr.reusablemethods.CreateTestCasePage  - Pass-Successfully Test Case Name and Description is Added
+450444 [main] INFO com.zephyr.reusablemethods.CreateTestCasePage  - Pass-Successfully Test Case Name and Description is Added
+450444 [main] INFO com.zephyr.reusablemethods.CreateTestCasePage  - Pass-Successfully Test Case Name and Description is Added
+450444 [main] INFO com.zephyr.reusablemethods.CreateTestCasePage  - Pass-Successfully Test Case Name and Description is Added
+457275 [main] INFO com.zephyr.reusablemethods.ReleasePage  - Successfully Landed on Test testPlanning Page
+457275 [main] INFO com.zephyr.reusablemethods.ReleasePage  - Successfully Landed on Test testPlanning Page
+457275 [main] INFO com.zephyr.reusablemethods.ReleasePage  - Successfully Landed on Test testPlanning Page
+457275 [main] INFO com.zephyr.reusablemethods.ReleasePage  - Successfully Landed on Test testPlanning Page
+457275 [main] INFO com.zephyr.reusablemethods.ReleasePage  - Successfully Landed on Test testPlanning Page
+457275 [main] INFO com.zephyr.reusablemethods.ReleasePage  - Successfully Landed on Test testPlanning Page
+457275 [main] INFO com.zephyr.reusablemethods.ReleasePage  - Successfully Landed on Test testPlanning Page
+457275 [main] INFO com.zephyr.reusablemethods.ReleasePage  - Successfully Landed on Test testPlanning Page
+457275 [main] INFO com.zephyr.reusablemethods.ReleasePage  - Successfully Landed on Test testPlanning Page
+457275 [main] INFO com.zephyr.reusablemethods.ReleasePage  - Successfully Landed on Test testPlanning Page
+457275 [main] INFO com.zephyr.reusablemethods.ReleasePage  - Successfully Landed on Test testPlanning Page
+457275 [main] INFO com.zephyr.reusablemethods.ReleasePage  - Successfully Landed on Test testPlanning Page
+457275 [main] INFO com.zephyr.reusablemethods.ReleasePage  - Successfully Landed on Test testPlanning Page
+457275 [main] INFO com.zephyr.reusablemethods.ReleasePage  - Successfully Landed on Test testPlanning Page
+457275 [main] INFO com.zephyr.reusablemethods.ReleasePage  - Successfully Landed on Test testPlanning Page
+457275 [main] INFO com.zephyr.reusablemethods.ReleasePage  - Successfully Landed on Test testPlanning Page
+457275 [main] INFO com.zephyr.reusablemethods.ReleasePage  - Successfully Landed on Test testPlanning Page
+540710 [main] INFO com.zephyr.reusablemethods.ReleasePage  - Successfully Landed on Test testPlanning Page
+540710 [main] INFO com.zephyr.reusablemethods.ReleasePage  - Successfully Landed on Test testPlanning Page
+540710 [main] INFO com.zephyr.reusablemethods.ReleasePage  - Successfully Landed on Test testPlanning Page
+540710 [main] INFO com.zephyr.reusablemethods.ReleasePage  - Successfully Landed on Test testPlanning Page
+540710 [main] INFO com.zephyr.reusablemethods.ReleasePage  - Successfully Landed on Test testPlanning Page
+540710 [main] INFO com.zephyr.reusablemethods.ReleasePage  - Successfully Landed on Test testPlanning Page
+540710 [main] INFO com.zephyr.reusablemethods.ReleasePage  - Successfully Landed on Test testPlanning Page
+540710 [main] INFO com.zephyr.reusablemethods.ReleasePage  - Successfully Landed on Test testPlanning Page
+540710 [main] INFO com.zephyr.reusablemethods.ReleasePage  - Successfully Landed on Test testPlanning Page
+540710 [main] INFO com.zephyr.reusablemethods.ReleasePage  - Successfully Landed on Test testPlanning Page
+540710 [main] INFO com.zephyr.reusablemethods.ReleasePage  - Successfully Landed on Test testPlanning Page
+540710 [main] INFO com.zephyr.reusablemethods.ReleasePage  - Successfully Landed on Test testPlanning Page
+540710 [main] INFO com.zephyr.reusablemethods.ReleasePage  - Successfully Landed on Test testPlanning Page
+540710 [main] INFO com.zephyr.reusablemethods.ReleasePage  - Successfully Landed on Test testPlanning Page
+540710 [main] INFO com.zephyr.reusablemethods.ReleasePage  - Successfully Landed on Test testPlanning Page
+540710 [main] INFO com.zephyr.reusablemethods.ReleasePage  - Successfully Landed on Test testPlanning Page
+540710 [main] INFO com.zephyr.reusablemethods.ReleasePage  - Successfully Landed on Test testPlanning Page
+540710 [main] INFO com.zephyr.reusablemethods.ReleasePage  - Successfully Landed on Test testPlanning Page
+541463 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Auto_2Free_Form_Cycle_868183
+541463 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Auto_2Free_Form_Cycle_868183
+541463 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Auto_2Free_Form_Cycle_868183
+541463 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Auto_2Free_Form_Cycle_868183
+541463 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Auto_2Free_Form_Cycle_868183
+541463 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Auto_2Free_Form_Cycle_868183
+541463 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Auto_2Free_Form_Cycle_868183
+541463 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Auto_2Free_Form_Cycle_868183
+541463 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Auto_2Free_Form_Cycle_868183
+541463 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Auto_2Free_Form_Cycle_868183
+541463 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Auto_2Free_Form_Cycle_868183
+541463 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Auto_2Free_Form_Cycle_868183
+541463 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Auto_2Free_Form_Cycle_868183
+541463 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Auto_2Free_Form_Cycle_868183
+541463 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Auto_2Free_Form_Cycle_868183
+541463 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Auto_2Free_Form_Cycle_868183
+541463 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Auto_2Free_Form_Cycle_868183
+541463 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Auto_2Free_Form_Cycle_868183
+541463 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Pass - Double click on'Auto_2Free_Form_Cycle_868183' Successfull
+541463 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Pass - Double click on'Auto_2Free_Form_Cycle_868183' Successfull
+541463 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Pass - Double click on'Auto_2Free_Form_Cycle_868183' Successfull
+541463 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Pass - Double click on'Auto_2Free_Form_Cycle_868183' Successfull
+541463 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Pass - Double click on'Auto_2Free_Form_Cycle_868183' Successfull
+541463 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Pass - Double click on'Auto_2Free_Form_Cycle_868183' Successfull
+541463 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Pass - Double click on'Auto_2Free_Form_Cycle_868183' Successfull
+541463 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Pass - Double click on'Auto_2Free_Form_Cycle_868183' Successfull
+541463 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Pass - Double click on'Auto_2Free_Form_Cycle_868183' Successfull
+541463 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Pass - Double click on'Auto_2Free_Form_Cycle_868183' Successfull
+541463 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Pass - Double click on'Auto_2Free_Form_Cycle_868183' Successfull
+541463 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Pass - Double click on'Auto_2Free_Form_Cycle_868183' Successfull
+541463 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Pass - Double click on'Auto_2Free_Form_Cycle_868183' Successfull
+541463 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Pass - Double click on'Auto_2Free_Form_Cycle_868183' Successfull
+541463 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Pass - Double click on'Auto_2Free_Form_Cycle_868183' Successfull
+541463 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Pass - Double click on'Auto_2Free_Form_Cycle_868183' Successfull
+541463 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Pass - Double click on'Auto_2Free_Form_Cycle_868183' Successfull
+541463 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Pass - Double click on'Auto_2Free_Form_Cycle_868183' Successfull
+547814 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Pass - Clicked on Options
+547814 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Pass - Clicked on Options
+547814 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Pass - Clicked on Options
+547814 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Pass - Clicked on Options
+547814 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Pass - Clicked on Options
+547814 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Pass - Clicked on Options
+547814 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Pass - Clicked on Options
+547814 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Pass - Clicked on Options
+547814 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Pass - Clicked on Options
+547814 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Pass - Clicked on Options
+547814 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Pass - Clicked on Options
+547814 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Pass - Clicked on Options
+547814 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Pass - Clicked on Options
+547814 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Pass - Clicked on Options
+547814 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Pass - Clicked on Options
+547814 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Pass - Clicked on Options
+547814 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Pass - Clicked on Options
+547814 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Pass - Clicked on Options
+551104 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Pass - Clicked on phase
+551104 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Pass - Clicked on phase
+551104 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Pass - Clicked on phase
+551104 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Pass - Clicked on phase
+551104 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Pass - Clicked on phase
+551104 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Pass - Clicked on phase
+551104 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Pass - Clicked on phase
+551104 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Pass - Clicked on phase
+551104 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Pass - Clicked on phase
+551104 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Pass - Clicked on phase
+551104 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Pass - Clicked on phase
+551104 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Pass - Clicked on phase
+551104 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Pass - Clicked on phase
+551104 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Pass - Clicked on phase
+551104 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Pass - Clicked on phase
+551104 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Pass - Clicked on phase
+551104 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Pass - Clicked on phase
+551104 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Pass - Clicked on phase
+Pass-FreeForm Phase created sucessfully
+568624 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Auto_2Free_Form_Phase_868183
+0
+0
+568624 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Auto_2Free_Form_Phase_868183
+0
+0
+568624 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Auto_2Free_Form_Phase_868183
+0
+0
+568624 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Auto_2Free_Form_Phase_868183
+0
+0
+568624 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Auto_2Free_Form_Phase_868183
+0
+0
+568624 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Auto_2Free_Form_Phase_868183
+0
+0
+568624 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Auto_2Free_Form_Phase_868183
+0
+0
+568624 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Auto_2Free_Form_Phase_868183
+0
+0
+568624 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Auto_2Free_Form_Phase_868183
+0
+0
+568624 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Auto_2Free_Form_Phase_868183
+0
+0
+568624 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Auto_2Free_Form_Phase_868183
+0
+0
+568624 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Auto_2Free_Form_Phase_868183
+0
+0
+568624 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Auto_2Free_Form_Phase_868183
+0
+0
+568624 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Auto_2Free_Form_Phase_868183
+0
+0
+568624 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Auto_2Free_Form_Phase_868183
+0
+0
+568624 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Auto_2Free_Form_Phase_868183
+0
+0
+568624 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Auto_2Free_Form_Phase_868183
+0
+0
+568624 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Auto_2Free_Form_Phase_868183
+0
+0
+568624 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Pass - Double click on'Auto_2Free_Form_Phase_868183' Successfull
+568624 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Pass - Double click on'Auto_2Free_Form_Phase_868183' Successfull
+568624 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Pass - Double click on'Auto_2Free_Form_Phase_868183' Successfull
+568624 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Pass - Double click on'Auto_2Free_Form_Phase_868183' Successfull
+568624 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Pass - Double click on'Auto_2Free_Form_Phase_868183' Successfull
+568624 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Pass - Double click on'Auto_2Free_Form_Phase_868183' Successfull
+568624 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Pass - Double click on'Auto_2Free_Form_Phase_868183' Successfull
+568624 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Pass - Double click on'Auto_2Free_Form_Phase_868183' Successfull
+568624 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Pass - Double click on'Auto_2Free_Form_Phase_868183' Successfull
+568624 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Pass - Double click on'Auto_2Free_Form_Phase_868183' Successfull
+568624 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Pass - Double click on'Auto_2Free_Form_Phase_868183' Successfull
+568624 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Pass - Double click on'Auto_2Free_Form_Phase_868183' Successfull
+568624 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Pass - Double click on'Auto_2Free_Form_Phase_868183' Successfull
+568624 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Pass - Double click on'Auto_2Free_Form_Phase_868183' Successfull
+568624 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Pass - Double click on'Auto_2Free_Form_Phase_868183' Successfull
+568624 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Pass - Double click on'Auto_2Free_Form_Phase_868183' Successfull
+568624 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Pass - Double click on'Auto_2Free_Form_Phase_868183' Successfull
+568624 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Pass - Double click on'Auto_2Free_Form_Phase_868183' Successfull
+pass-clicked on addtestcases option
+574819 [main] INFO com.zephyr.stepdefinition.Free_Form_868183  - User Successfully clicked on search window
+574819 [main] INFO com.zephyr.stepdefinition.Free_Form_868183  - User Successfully clicked on search window
+574819 [main] INFO com.zephyr.stepdefinition.Free_Form_868183  - User Successfully clicked on search window
+574819 [main] INFO com.zephyr.stepdefinition.Free_Form_868183  - User Successfully clicked on search window
+574819 [main] INFO com.zephyr.stepdefinition.Free_Form_868183  - User Successfully clicked on search window
+574819 [main] INFO com.zephyr.stepdefinition.Free_Form_868183  - User Successfully clicked on search window
+574819 [main] INFO com.zephyr.stepdefinition.Free_Form_868183  - User Successfully clicked on search window
+574819 [main] INFO com.zephyr.stepdefinition.Free_Form_868183  - User Successfully clicked on search window
+574819 [main] INFO com.zephyr.stepdefinition.Free_Form_868183  - User Successfully clicked on search window
+574819 [main] INFO com.zephyr.stepdefinition.Free_Form_868183  - User Successfully clicked on search window
+574819 [main] INFO com.zephyr.stepdefinition.Free_Form_868183  - User Successfully clicked on search window
+574819 [main] INFO com.zephyr.stepdefinition.Free_Form_868183  - User Successfully clicked on search window
+574819 [main] INFO com.zephyr.stepdefinition.Free_Form_868183  - User Successfully clicked on search window
+574819 [main] INFO com.zephyr.stepdefinition.Free_Form_868183  - User Successfully clicked on search window
+574819 [main] INFO com.zephyr.stepdefinition.Free_Form_868183  - User Successfully clicked on search window
+574819 [main] INFO com.zephyr.stepdefinition.Free_Form_868183  - User Successfully clicked on search window
+574819 [main] INFO com.zephyr.stepdefinition.Free_Form_868183  - User Successfully clicked on search window
+574819 [main] INFO com.zephyr.stepdefinition.Free_Form_868183  - User Successfully clicked on search window
+pass-searched with testcase 
+pass-clicked on Go
+pass-Selected All Testcases
+Pass-Clicked on save All Testcases
+Pass-Clicked on Save
+Pass-Clicked on OK
+pass-Freeform page closed
+615496 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Auto_2Free_Form_Phase_868183
+4
+4
+615496 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Auto_2Free_Form_Phase_868183
+4
+4
+615496 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Auto_2Free_Form_Phase_868183
+4
+4
+615496 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Auto_2Free_Form_Phase_868183
+4
+4
+615496 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Auto_2Free_Form_Phase_868183
+4
+4
+615496 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Auto_2Free_Form_Phase_868183
+4
+4
+615496 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Auto_2Free_Form_Phase_868183
+4
+4
+615496 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Auto_2Free_Form_Phase_868183
+4
+4
+615496 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Auto_2Free_Form_Phase_868183
+4
+4
+615496 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Auto_2Free_Form_Phase_868183
+4
+4
+615496 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Auto_2Free_Form_Phase_868183
+4
+4
+615496 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Auto_2Free_Form_Phase_868183
+4
+4
+615496 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Auto_2Free_Form_Phase_868183
+4
+4
+615496 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Auto_2Free_Form_Phase_868183
+4
+4
+615496 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Auto_2Free_Form_Phase_868183
+4
+4
+615496 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Auto_2Free_Form_Phase_868183
+4
+4
+615496 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Auto_2Free_Form_Phase_868183
+4
+4
+615496 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Auto_2Free_Form_Phase_868183
+4
+4
+615496 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Pass - Double click on'Auto_2Free_Form_Phase_868183' Successfull
+615496 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Pass - Double click on'Auto_2Free_Form_Phase_868183' Successfull
+615496 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Pass - Double click on'Auto_2Free_Form_Phase_868183' Successfull
+615496 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Pass - Double click on'Auto_2Free_Form_Phase_868183' Successfull
+615496 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Pass - Double click on'Auto_2Free_Form_Phase_868183' Successfull
+615496 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Pass - Double click on'Auto_2Free_Form_Phase_868183' Successfull
+615496 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Pass - Double click on'Auto_2Free_Form_Phase_868183' Successfull
+615496 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Pass - Double click on'Auto_2Free_Form_Phase_868183' Successfull
+615496 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Pass - Double click on'Auto_2Free_Form_Phase_868183' Successfull
+615496 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Pass - Double click on'Auto_2Free_Form_Phase_868183' Successfull
+615496 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Pass - Double click on'Auto_2Free_Form_Phase_868183' Successfull
+615496 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Pass - Double click on'Auto_2Free_Form_Phase_868183' Successfull
+615496 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Pass - Double click on'Auto_2Free_Form_Phase_868183' Successfull
+615496 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Pass - Double click on'Auto_2Free_Form_Phase_868183' Successfull
+615496 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Pass - Double click on'Auto_2Free_Form_Phase_868183' Successfull
+615496 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Pass - Double click on'Auto_2Free_Form_Phase_868183' Successfull
+615496 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Pass - Double click on'Auto_2Free_Form_Phase_868183' Successfull
+615496 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Pass - Double click on'Auto_2Free_Form_Phase_868183' Successfull
+pass-clicked on addtestcases option
+pass-searched with TESTCASE
+pass-clicked on Go
+pass-Selected All Testcases
+Pass-Clicked on save All Testcases
+Pass-Clicked on Save
+Pass-Clicked on OK
+pass-Freeform page closed
+661935 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Auto_2Free_Form_Phase_868183
+4
+4
+661935 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Auto_2Free_Form_Phase_868183
+4
+4
+661935 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Auto_2Free_Form_Phase_868183
+4
+4
+661935 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Auto_2Free_Form_Phase_868183
+4
+4
+661935 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Auto_2Free_Form_Phase_868183
+4
+4
+661935 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Auto_2Free_Form_Phase_868183
+4
+4
+661935 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Auto_2Free_Form_Phase_868183
+4
+4
+661935 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Auto_2Free_Form_Phase_868183
+4
+4
+661935 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Auto_2Free_Form_Phase_868183
+4
+4
+661935 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Auto_2Free_Form_Phase_868183
+4
+4
+661935 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Auto_2Free_Form_Phase_868183
+4
+4
+661935 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Auto_2Free_Form_Phase_868183
+4
+4
+661935 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Auto_2Free_Form_Phase_868183
+4
+4
+661935 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Auto_2Free_Form_Phase_868183
+4
+4
+661935 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Auto_2Free_Form_Phase_868183
+4
+4
+661935 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Auto_2Free_Form_Phase_868183
+4
+4
+661935 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Auto_2Free_Form_Phase_868183
+4
+4
+661935 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Auto_2Free_Form_Phase_868183
+4
+4
+661936 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Pass - Double click on'Auto_2Free_Form_Phase_868183' Successfull
+661936 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Pass - Double click on'Auto_2Free_Form_Phase_868183' Successfull
+661936 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Pass - Double click on'Auto_2Free_Form_Phase_868183' Successfull
+661936 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Pass - Double click on'Auto_2Free_Form_Phase_868183' Successfull
+661936 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Pass - Double click on'Auto_2Free_Form_Phase_868183' Successfull
+661936 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Pass - Double click on'Auto_2Free_Form_Phase_868183' Successfull
+661936 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Pass - Double click on'Auto_2Free_Form_Phase_868183' Successfull
+661936 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Pass - Double click on'Auto_2Free_Form_Phase_868183' Successfull
+661936 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Pass - Double click on'Auto_2Free_Form_Phase_868183' Successfull
+661936 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Pass - Double click on'Auto_2Free_Form_Phase_868183' Successfull
+661936 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Pass - Double click on'Auto_2Free_Form_Phase_868183' Successfull
+661936 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Pass - Double click on'Auto_2Free_Form_Phase_868183' Successfull
+661936 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Pass - Double click on'Auto_2Free_Form_Phase_868183' Successfull
+661936 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Pass - Double click on'Auto_2Free_Form_Phase_868183' Successfull
+661936 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Pass - Double click on'Auto_2Free_Form_Phase_868183' Successfull
+661936 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Pass - Double click on'Auto_2Free_Form_Phase_868183' Successfull
+661936 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Pass - Double click on'Auto_2Free_Form_Phase_868183' Successfull
+661936 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Pass - Double click on'Auto_2Free_Form_Phase_868183' Successfull
+pass-clicked on addtestcases option
+pass-searched with #@$%!*
+pass-clicked on Go
+pass-Selected All Testcases
+Pass-Clicked on save All Testcases
+Pass-Clicked on Save
+Pass-Clicked on OK
+pass-Freeform page closed
+708268 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Auto_2Free_Form_Phase_868183
+4
+4
+708268 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Auto_2Free_Form_Phase_868183
+4
+4
+708268 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Auto_2Free_Form_Phase_868183
+4
+4
+708268 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Auto_2Free_Form_Phase_868183
+4
+4
+708268 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Auto_2Free_Form_Phase_868183
+4
+4
+708268 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Auto_2Free_Form_Phase_868183
+4
+4
+708268 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Auto_2Free_Form_Phase_868183
+4
+4
+708268 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Auto_2Free_Form_Phase_868183
+4
+4
+708268 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Auto_2Free_Form_Phase_868183
+4
+4
+708268 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Auto_2Free_Form_Phase_868183
+4
+4
+708268 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Auto_2Free_Form_Phase_868183
+4
+4
+708268 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Auto_2Free_Form_Phase_868183
+4
+4
+708268 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Auto_2Free_Form_Phase_868183
+4
+4
+708268 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Auto_2Free_Form_Phase_868183
+4
+4
+708268 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Auto_2Free_Form_Phase_868183
+4
+4
+708268 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Auto_2Free_Form_Phase_868183
+4
+4
+708268 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Auto_2Free_Form_Phase_868183
+4
+4
+708268 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Auto_2Free_Form_Phase_868183
+4
+4
+708268 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Pass - Double click on'Auto_2Free_Form_Phase_868183' Successfull
+708268 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Pass - Double click on'Auto_2Free_Form_Phase_868183' Successfull
+708268 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Pass - Double click on'Auto_2Free_Form_Phase_868183' Successfull
+708268 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Pass - Double click on'Auto_2Free_Form_Phase_868183' Successfull
+708268 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Pass - Double click on'Auto_2Free_Form_Phase_868183' Successfull
+708268 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Pass - Double click on'Auto_2Free_Form_Phase_868183' Successfull
+708268 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Pass - Double click on'Auto_2Free_Form_Phase_868183' Successfull
+708268 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Pass - Double click on'Auto_2Free_Form_Phase_868183' Successfull
+708268 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Pass - Double click on'Auto_2Free_Form_Phase_868183' Successfull
+708268 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Pass - Double click on'Auto_2Free_Form_Phase_868183' Successfull
+708268 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Pass - Double click on'Auto_2Free_Form_Phase_868183' Successfull
+708268 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Pass - Double click on'Auto_2Free_Form_Phase_868183' Successfull
+708268 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Pass - Double click on'Auto_2Free_Form_Phase_868183' Successfull
+708268 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Pass - Double click on'Auto_2Free_Form_Phase_868183' Successfull
+708268 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Pass - Double click on'Auto_2Free_Form_Phase_868183' Successfull
+708268 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Pass - Double click on'Auto_2Free_Form_Phase_868183' Successfull
+708268 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Pass - Double click on'Auto_2Free_Form_Phase_868183' Successfull
+708268 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Pass - Double click on'Auto_2Free_Form_Phase_868183' Successfull
+pass-clicked on addtestcases option
+java.lang.IllegalStateException: Cannot get a STRING value from a NUMERIC cell
+	at org.apache.poi.xssf.usermodel.XSSFCell.typeMismatch(XSSFCell.java:1050)
+	at org.apache.poi.xssf.usermodel.XSSFCell.getRichStringCellValue(XSSFCell.java:404)
+	at org.apache.poi.xssf.usermodel.XSSFCell.getStringCellValue(XSSFCell.java:356)
+	at com.zephyr.generic.Excel_Lib.getData(Excel_Lib.java:24)
+	at com.zephyr.stepdefinition.Free_Form_868183.user_search_testcase_with_testcase_name_contains_only_numbers(Free_Form_868183.java:424)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at cucumber.runtime.Utils$1.call(Utils.java:40)
+	at cucumber.runtime.Timeout.timeout(Timeout.java:16)
+	at cucumber.runtime.Utils.invoke(Utils.java:34)
+	at cucumber.runtime.java.JavaStepDefinition.execute(JavaStepDefinition.java:38)
+	at cucumber.runtime.StepDefinitionMatch.runStep(StepDefinitionMatch.java:37)
+	at cucumber.runtime.Runtime.runStep(Runtime.java:300)
+	at cucumber.runtime.model.StepContainer.runStep(StepContainer.java:44)
+	at cucumber.runtime.model.StepContainer.runSteps(StepContainer.java:39)
+	at cucumber.runtime.model.CucumberScenario.run(CucumberScenario.java:44)
+	at cucumber.runtime.junit.ExecutionUnitRunner.run(ExecutionUnitRunner.java:102)
+	at cucumber.runtime.junit.FeatureRunner.runChild(FeatureRunner.java:63)
+	at cucumber.runtime.junit.FeatureRunner.runChild(FeatureRunner.java:18)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at cucumber.runtime.junit.FeatureRunner.run(FeatureRunner.java:70)
+	at cucumber.api.junit.Cucumber.runChild(Cucumber.java:95)
+	at cucumber.api.junit.Cucumber.runChild(Cucumber.java:38)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at cucumber.api.junit.Cucumber.run(Cucumber.java:100)
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:50)
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:459)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:675)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:382)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:192)
+pass-searched with 
+pass-clicked on Go
+pass-Selected All Testcases
+Pass-Clicked on save All Testcases
+Pass-Clicked on Save
+Pass-Clicked on OK
+pass-Freeform page closed
+754399 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Auto_2Free_Form_Phase_868183
+4
+4
+754399 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Auto_2Free_Form_Phase_868183
+4
+4
+754399 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Auto_2Free_Form_Phase_868183
+4
+4
+754399 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Auto_2Free_Form_Phase_868183
+4
+4
+754399 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Auto_2Free_Form_Phase_868183
+4
+4
+754399 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Auto_2Free_Form_Phase_868183
+4
+4
+754399 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Auto_2Free_Form_Phase_868183
+4
+4
+754399 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Auto_2Free_Form_Phase_868183
+4
+4
+754399 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Auto_2Free_Form_Phase_868183
+4
+4
+754399 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Auto_2Free_Form_Phase_868183
+4
+4
+754399 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Auto_2Free_Form_Phase_868183
+4
+4
+754399 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Auto_2Free_Form_Phase_868183
+4
+4
+754399 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Auto_2Free_Form_Phase_868183
+4
+4
+754399 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Auto_2Free_Form_Phase_868183
+4
+4
+754399 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Auto_2Free_Form_Phase_868183
+4
+4
+754399 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Auto_2Free_Form_Phase_868183
+4
+4
+754399 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Auto_2Free_Form_Phase_868183
+4
+4
+754399 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Auto_2Free_Form_Phase_868183
+4
+4
+754399 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Pass - Double click on'Auto_2Free_Form_Phase_868183' Successfull
+754399 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Pass - Double click on'Auto_2Free_Form_Phase_868183' Successfull
+754399 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Pass - Double click on'Auto_2Free_Form_Phase_868183' Successfull
+754399 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Pass - Double click on'Auto_2Free_Form_Phase_868183' Successfull
+754399 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Pass - Double click on'Auto_2Free_Form_Phase_868183' Successfull
+754399 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Pass - Double click on'Auto_2Free_Form_Phase_868183' Successfull
+754399 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Pass - Double click on'Auto_2Free_Form_Phase_868183' Successfull
+754399 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Pass - Double click on'Auto_2Free_Form_Phase_868183' Successfull
+754399 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Pass - Double click on'Auto_2Free_Form_Phase_868183' Successfull
+754399 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Pass - Double click on'Auto_2Free_Form_Phase_868183' Successfull
+754399 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Pass - Double click on'Auto_2Free_Form_Phase_868183' Successfull
+754399 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Pass - Double click on'Auto_2Free_Form_Phase_868183' Successfull
+754399 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Pass - Double click on'Auto_2Free_Form_Phase_868183' Successfull
+754399 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Pass - Double click on'Auto_2Free_Form_Phase_868183' Successfull
+754399 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Pass - Double click on'Auto_2Free_Form_Phase_868183' Successfull
+754399 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Pass - Double click on'Auto_2Free_Form_Phase_868183' Successfull
+754399 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Pass - Double click on'Auto_2Free_Form_Phase_868183' Successfull
+754399 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Pass - Double click on'Auto_2Free_Form_Phase_868183' Successfull
+pass-clicked on addtestcases option
+pass-searched with sunny1234
+pass-clicked on Go
+pass-Selected All Testcases
+Pass-Clicked on save All Testcases
+Pass-Clicked on Save
+Pass-Clicked on OK
+pass-Freeform page closed
+800975 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Auto_2Free_Form_Phase_868183
+6
+6
+800975 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Auto_2Free_Form_Phase_868183
+6
+6
+800975 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Auto_2Free_Form_Phase_868183
+6
+6
+800975 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Auto_2Free_Form_Phase_868183
+6
+6
+800975 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Auto_2Free_Form_Phase_868183
+6
+6
+800975 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Auto_2Free_Form_Phase_868183
+6
+6
+800975 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Auto_2Free_Form_Phase_868183
+6
+6
+800975 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Auto_2Free_Form_Phase_868183
+6
+6
+800975 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Auto_2Free_Form_Phase_868183
+6
+6
+800975 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Auto_2Free_Form_Phase_868183
+6
+6
+800975 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Auto_2Free_Form_Phase_868183
+6
+6
+800975 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Auto_2Free_Form_Phase_868183
+6
+6
+800975 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Auto_2Free_Form_Phase_868183
+6
+6
+800975 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Auto_2Free_Form_Phase_868183
+6
+6
+800975 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Auto_2Free_Form_Phase_868183
+6
+6
+800975 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Auto_2Free_Form_Phase_868183
+6
+6
+800975 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Auto_2Free_Form_Phase_868183
+6
+6
+800975 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Auto_2Free_Form_Phase_868183
+6
+6
+800975 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Pass - Double click on'Auto_2Free_Form_Phase_868183' Successfull
+800975 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Pass - Double click on'Auto_2Free_Form_Phase_868183' Successfull
+800975 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Pass - Double click on'Auto_2Free_Form_Phase_868183' Successfull
+800975 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Pass - Double click on'Auto_2Free_Form_Phase_868183' Successfull
+800975 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Pass - Double click on'Auto_2Free_Form_Phase_868183' Successfull
+800975 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Pass - Double click on'Auto_2Free_Form_Phase_868183' Successfull
+800975 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Pass - Double click on'Auto_2Free_Form_Phase_868183' Successfull
+800975 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Pass - Double click on'Auto_2Free_Form_Phase_868183' Successfull
+800975 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Pass - Double click on'Auto_2Free_Form_Phase_868183' Successfull
+800975 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Pass - Double click on'Auto_2Free_Form_Phase_868183' Successfull
+800975 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Pass - Double click on'Auto_2Free_Form_Phase_868183' Successfull
+800975 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Pass - Double click on'Auto_2Free_Form_Phase_868183' Successfull
+800975 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Pass - Double click on'Auto_2Free_Form_Phase_868183' Successfull
+800975 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Pass - Double click on'Auto_2Free_Form_Phase_868183' Successfull
+800975 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Pass - Double click on'Auto_2Free_Form_Phase_868183' Successfull
+800975 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Pass - Double click on'Auto_2Free_Form_Phase_868183' Successfull
+800975 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Pass - Double click on'Auto_2Free_Form_Phase_868183' Successfull
+800975 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Pass - Double click on'Auto_2Free_Form_Phase_868183' Successfull
+pass-clicked on addtestcases option
+pass-searched with ??
+pass-clicked on Go
+pass-Selected All Testcases
+Pass-Clicked on save All Testcases
+Pass-Clicked on Save
+Pass-Clicked on OK
+pass-Freeform page closed
+847688 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Auto_2Free_Form_Phase_868183
+8
+8
+847688 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Auto_2Free_Form_Phase_868183
+8
+8
+847688 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Auto_2Free_Form_Phase_868183
+8
+8
+847688 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Auto_2Free_Form_Phase_868183
+8
+8
+847688 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Auto_2Free_Form_Phase_868183
+8
+8
+847688 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Auto_2Free_Form_Phase_868183
+8
+8
+847688 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Auto_2Free_Form_Phase_868183
+8
+8
+847688 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Auto_2Free_Form_Phase_868183
+8
+8
+847688 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Auto_2Free_Form_Phase_868183
+8
+8
+847688 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Auto_2Free_Form_Phase_868183
+8
+8
+847688 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Auto_2Free_Form_Phase_868183
+8
+8
+847688 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Auto_2Free_Form_Phase_868183
+8
+8
+847688 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Auto_2Free_Form_Phase_868183
+8
+8
+847688 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Auto_2Free_Form_Phase_868183
+8
+8
+847688 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Auto_2Free_Form_Phase_868183
+8
+8
+847688 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Auto_2Free_Form_Phase_868183
+8
+8
+847688 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Auto_2Free_Form_Phase_868183
+8
+8
+847688 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Auto_2Free_Form_Phase_868183
+8
+8
+847689 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Pass - Double click on'Auto_2Free_Form_Phase_868183' Successfull
+847689 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Pass - Double click on'Auto_2Free_Form_Phase_868183' Successfull
+847689 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Pass - Double click on'Auto_2Free_Form_Phase_868183' Successfull
+847689 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Pass - Double click on'Auto_2Free_Form_Phase_868183' Successfull
+847689 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Pass - Double click on'Auto_2Free_Form_Phase_868183' Successfull
+847689 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Pass - Double click on'Auto_2Free_Form_Phase_868183' Successfull
+847689 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Pass - Double click on'Auto_2Free_Form_Phase_868183' Successfull
+847689 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Pass - Double click on'Auto_2Free_Form_Phase_868183' Successfull
+847689 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Pass - Double click on'Auto_2Free_Form_Phase_868183' Successfull
+847689 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Pass - Double click on'Auto_2Free_Form_Phase_868183' Successfull
+847689 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Pass - Double click on'Auto_2Free_Form_Phase_868183' Successfull
+847689 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Pass - Double click on'Auto_2Free_Form_Phase_868183' Successfull
+847689 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Pass - Double click on'Auto_2Free_Form_Phase_868183' Successfull
+847689 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Pass - Double click on'Auto_2Free_Form_Phase_868183' Successfull
+847689 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Pass - Double click on'Auto_2Free_Form_Phase_868183' Successfull
+847689 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Pass - Double click on'Auto_2Free_Form_Phase_868183' Successfull
+847689 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Pass - Double click on'Auto_2Free_Form_Phase_868183' Successfull
+847689 [main] INFO com.zephyr.reusablemethods.TestPlanningPage  - Pass - Double click on'Auto_2Free_Form_Phase_868183' Successfull
+pass-clicked on addtestcases option
+pass-searched with Avul Pakir Jainulabdeen Abdul Kalam
+pass-clicked on Go
+pass-Selected All Testcases
+Pass-Clicked on save All Testcases
+Pass-Clicked on Save
+Pass-Clicked on OK
+pass-Freeform page closed
+true
+true
+true
+true
+true
+true
+true
+true
+true
+true
+true
+true
+true
+true
+true
+true
+true
+true
+true
+true
+true
+true
+true
+true
+true
+true
+true
+true
+true
+true
+true
+true
+true
+true
+true
+true
+true
+true
+true
+true
+true
+true
+true
+true
+true
+true
+true
+true
+true
+true
+true
+true
+true
+true
+true
+true
+true
+true
+true
+true
+true
+true
+true
+892076 [main] INFO com.zephyr.stepdefinition.Free_Form_868183  - Phases with all the above mentioned Specifications are Created Successfully
+892076 [main] INFO com.zephyr.stepdefinition.Free_Form_868183  - Phases with all the above mentioned Specifications are Created Successfully
+892076 [main] INFO com.zephyr.stepdefinition.Free_Form_868183  - Phases with all the above mentioned Specifications are Created Successfully
+892076 [main] INFO com.zephyr.stepdefinition.Free_Form_868183  - Phases with all the above mentioned Specifications are Created Successfully
+892076 [main] INFO com.zephyr.stepdefinition.Free_Form_868183  - Phases with all the above mentioned Specifications are Created Successfully
+892076 [main] INFO com.zephyr.stepdefinition.Free_Form_868183  - Phases with all the above mentioned Specifications are Created Successfully
+892076 [main] INFO com.zephyr.stepdefinition.Free_Form_868183  - Phases with all the above mentioned Specifications are Created Successfully
+892076 [main] INFO com.zephyr.stepdefinition.Free_Form_868183  - Phases with all the above mentioned Specifications are Created Successfully
+892076 [main] INFO com.zephyr.stepdefinition.Free_Form_868183  - Phases with all the above mentioned Specifications are Created Successfully
+892076 [main] INFO com.zephyr.stepdefinition.Free_Form_868183  - Phases with all the above mentioned Specifications are Created Successfully
+892076 [main] INFO com.zephyr.stepdefinition.Free_Form_868183  - Phases with all the above mentioned Specifications are Created Successfully
+892076 [main] INFO com.zephyr.stepdefinition.Free_Form_868183  - Phases with all the above mentioned Specifications are Created Successfully
+892076 [main] INFO com.zephyr.stepdefinition.Free_Form_868183  - Phases with all the above mentioned Specifications are Created Successfully
+892076 [main] INFO com.zephyr.stepdefinition.Free_Form_868183  - Phases with all the above mentioned Specifications are Created Successfully
+892076 [main] INFO com.zephyr.stepdefinition.Free_Form_868183  - Phases with all the above mentioned Specifications are Created Successfully
+892076 [main] INFO com.zephyr.stepdefinition.Free_Form_868183  - Phases with all the above mentioned Specifications are Created Successfully
+892076 [main] INFO com.zephyr.stepdefinition.Free_Form_868183  - Phases with all the above mentioned Specifications are Created Successfully
+892076 [main] INFO com.zephyr.stepdefinition.Free_Form_868183  - Phases with all the above mentioned Specifications are Created Successfully
+904621 [main] INFO com.zephyr.reusablemethods.ProjectPage  - Pass - 'Test Plan Project5' Project Is Selected
+904621 [main] INFO com.zephyr.reusablemethods.ProjectPage  - Pass - 'Test Plan Project5' Project Is Selected
+904621 [main] INFO com.zephyr.reusablemethods.ProjectPage  - Pass - 'Test Plan Project5' Project Is Selected
+904621 [main] INFO com.zephyr.reusablemethods.ProjectPage  - Pass - 'Test Plan Project5' Project Is Selected
+904621 [main] INFO com.zephyr.reusablemethods.ProjectPage  - Pass - 'Test Plan Project5' Project Is Selected
+904621 [main] INFO com.zephyr.reusablemethods.ProjectPage  - Pass - 'Test Plan Project5' Project Is Selected
+904621 [main] INFO com.zephyr.reusablemethods.ProjectPage  - Pass - 'Test Plan Project5' Project Is Selected
+904621 [main] INFO com.zephyr.reusablemethods.ProjectPage  - Pass - 'Test Plan Project5' Project Is Selected
+904621 [main] INFO com.zephyr.reusablemethods.ProjectPage  - Pass - 'Test Plan Project5' Project Is Selected
+904621 [main] INFO com.zephyr.reusablemethods.ProjectPage  - Pass - 'Test Plan Project5' Project Is Selected
+904621 [main] INFO com.zephyr.reusablemethods.ProjectPage  - Pass - 'Test Plan Project5' Project Is Selected
+904621 [main] INFO com.zephyr.reusablemethods.ProjectPage  - Pass - 'Test Plan Project5' Project Is Selected
+904621 [main] INFO com.zephyr.reusablemethods.ProjectPage  - Pass - 'Test Plan Project5' Project Is Selected
+904621 [main] INFO com.zephyr.reusablemethods.ProjectPage  - Pass - 'Test Plan Project5' Project Is Selected
+904621 [main] INFO com.zephyr.reusablemethods.ProjectPage  - Pass - 'Test Plan Project5' Project Is Selected
+904621 [main] INFO com.zephyr.reusablemethods.ProjectPage  - Pass - 'Test Plan Project5' Project Is Selected
+904621 [main] INFO com.zephyr.reusablemethods.ProjectPage  - Pass - 'Test Plan Project5' Project Is Selected
+904621 [main] INFO com.zephyr.reusablemethods.ProjectPage  - Pass - 'Test Plan Project5' Project Is Selected
+904621 [main] INFO com.zephyr.reusablemethods.ProjectPage  - Pass - 'Test Plan Project5' Project Is Selected
+904621 [main] INFO com.zephyr.reusablemethods.ProjectPage  - Pass - 'Test Plan Project5' Project Is Selected
+904621 [main] INFO com.zephyr.reusablemethods.ProjectPage  - Pass - You are in 'Test Plan Project5' now
+904621 [main] INFO com.zephyr.reusablemethods.ProjectPage  - Pass - You are in 'Test Plan Project5' now
+904621 [main] INFO com.zephyr.reusablemethods.ProjectPage  - Pass - You are in 'Test Plan Project5' now
+904621 [main] INFO com.zephyr.reusablemethods.ProjectPage  - Pass - You are in 'Test Plan Project5' now
+904621 [main] INFO com.zephyr.reusablemethods.ProjectPage  - Pass - You are in 'Test Plan Project5' now
+904621 [main] INFO com.zephyr.reusablemethods.ProjectPage  - Pass - You are in 'Test Plan Project5' now
+904621 [main] INFO com.zephyr.reusablemethods.ProjectPage  - Pass - You are in 'Test Plan Project5' now
+904621 [main] INFO com.zephyr.reusablemethods.ProjectPage  - Pass - You are in 'Test Plan Project5' now
+904621 [main] INFO com.zephyr.reusablemethods.ProjectPage  - Pass - You are in 'Test Plan Project5' now
+904621 [main] INFO com.zephyr.reusablemethods.ProjectPage  - Pass - You are in 'Test Plan Project5' now
+904621 [main] INFO com.zephyr.reusablemethods.ProjectPage  - Pass - You are in 'Test Plan Project5' now
+904621 [main] INFO com.zephyr.reusablemethods.ProjectPage  - Pass - You are in 'Test Plan Project5' now
+904621 [main] INFO com.zephyr.reusablemethods.ProjectPage  - Pass - You are in 'Test Plan Project5' now
+904621 [main] INFO com.zephyr.reusablemethods.ProjectPage  - Pass - You are in 'Test Plan Project5' now
+904621 [main] INFO com.zephyr.reusablemethods.ProjectPage  - Pass - You are in 'Test Plan Project5' now
+904621 [main] INFO com.zephyr.reusablemethods.ProjectPage  - Pass - You are in 'Test Plan Project5' now
+904621 [main] INFO com.zephyr.reusablemethods.ProjectPage  - Pass - You are in 'Test Plan Project5' now
+904621 [main] INFO com.zephyr.reusablemethods.ProjectPage  - Pass - You are in 'Test Plan Project5' now
+904621 [main] INFO com.zephyr.reusablemethods.ProjectPage  - Pass - You are in 'Test Plan Project5' now
+904621 [main] INFO com.zephyr.reusablemethods.ProjectPage  - Pass - You are in 'Test Plan Project5' now
+910763 [main] INFO com.zephyr.stepdefinition.Logout_TPE  - Pass - clicked on Logout user Option
+910763 [main] INFO com.zephyr.stepdefinition.Logout_TPE  - Pass - clicked on Logout user Option
+910763 [main] INFO com.zephyr.stepdefinition.Logout_TPE  - Pass - clicked on Logout user Option
+910763 [main] INFO com.zephyr.stepdefinition.Logout_TPE  - Pass - clicked on Logout user Option
+910763 [main] INFO com.zephyr.stepdefinition.Logout_TPE  - Pass - clicked on Logout user Option
+910763 [main] INFO com.zephyr.stepdefinition.Logout_TPE  - Pass - clicked on Logout user Option
+910763 [main] INFO com.zephyr.stepdefinition.Logout_TPE  - Pass - clicked on Logout user Option
+910763 [main] INFO com.zephyr.stepdefinition.Logout_TPE  - Pass - clicked on Logout user Option
+910763 [main] INFO com.zephyr.stepdefinition.Logout_TPE  - Pass - clicked on Logout user Option
+910763 [main] INFO com.zephyr.stepdefinition.Logout_TPE  - Pass - clicked on Logout user Option
+910763 [main] INFO com.zephyr.stepdefinition.Logout_TPE  - Pass - clicked on Logout user Option
+910763 [main] INFO com.zephyr.stepdefinition.Logout_TPE  - Pass - clicked on Logout user Option
+910763 [main] INFO com.zephyr.stepdefinition.Logout_TPE  - Pass - clicked on Logout user Option
+910763 [main] INFO com.zephyr.stepdefinition.Logout_TPE  - Pass - clicked on Logout user Option
+910763 [main] INFO com.zephyr.stepdefinition.Logout_TPE  - Pass - clicked on Logout user Option
+910763 [main] INFO com.zephyr.stepdefinition.Logout_TPE  - Pass - clicked on Logout user Option
+910763 [main] INFO com.zephyr.stepdefinition.Logout_TPE  - Pass - clicked on Logout user Option
+910763 [main] INFO com.zephyr.stepdefinition.Logout_TPE  - Pass - clicked on Logout user Option
+910763 [main] INFO com.zephyr.stepdefinition.Logout_TPE  - Pass - clicked on Logout user Option
+910763 [main] INFO com.zephyr.stepdefinition.Logout_TPE  - Pass - clicked on Logout user Option
+913956 [main] INFO com.zephyr.stepdefinition.Logout_TPE  - Pass - clicked on Logout Successfully
+913956 [main] INFO com.zephyr.stepdefinition.Logout_TPE  - Pass - clicked on Logout Successfully
+913956 [main] INFO com.zephyr.stepdefinition.Logout_TPE  - Pass - clicked on Logout Successfully
+913956 [main] INFO com.zephyr.stepdefinition.Logout_TPE  - Pass - clicked on Logout Successfully
+913956 [main] INFO com.zephyr.stepdefinition.Logout_TPE  - Pass - clicked on Logout Successfully
+913956 [main] INFO com.zephyr.stepdefinition.Logout_TPE  - Pass - clicked on Logout Successfully
+913956 [main] INFO com.zephyr.stepdefinition.Logout_TPE  - Pass - clicked on Logout Successfully
+913956 [main] INFO com.zephyr.stepdefinition.Logout_TPE  - Pass - clicked on Logout Successfully
+913956 [main] INFO com.zephyr.stepdefinition.Logout_TPE  - Pass - clicked on Logout Successfully
+913956 [main] INFO com.zephyr.stepdefinition.Logout_TPE  - Pass - clicked on Logout Successfully
+913956 [main] INFO com.zephyr.stepdefinition.Logout_TPE  - Pass - clicked on Logout Successfully
+913956 [main] INFO com.zephyr.stepdefinition.Logout_TPE  - Pass - clicked on Logout Successfully
+913956 [main] INFO com.zephyr.stepdefinition.Logout_TPE  - Pass - clicked on Logout Successfully
+913956 [main] INFO com.zephyr.stepdefinition.Logout_TPE  - Pass - clicked on Logout Successfully
+913956 [main] INFO com.zephyr.stepdefinition.Logout_TPE  - Pass - clicked on Logout Successfully
+913956 [main] INFO com.zephyr.stepdefinition.Logout_TPE  - Pass - clicked on Logout Successfully
+913956 [main] INFO com.zephyr.stepdefinition.Logout_TPE  - Pass - clicked on Logout Successfully
+913956 [main] INFO com.zephyr.stepdefinition.Logout_TPE  - Pass - clicked on Logout Successfully
+913956 [main] INFO com.zephyr.stepdefinition.Logout_TPE  - Pass - clicked on Logout Successfully
+913956 [main] INFO com.zephyr.stepdefinition.Logout_TPE  - Pass - clicked on Logout Successfully
+915201 [main] INFO com.zephyr.reusablemethods.ProjectPage  - Finalising Frmework
+915201 [main] INFO com.zephyr.reusablemethods.ProjectPage  - Finalising Frmework
+915201 [main] INFO com.zephyr.reusablemethods.ProjectPage  - Finalising Frmework
+915201 [main] INFO com.zephyr.reusablemethods.ProjectPage  - Finalising Frmework
+915201 [main] INFO com.zephyr.reusablemethods.ProjectPage  - Finalising Frmework
+915201 [main] INFO com.zephyr.reusablemethods.ProjectPage  - Finalising Frmework
+915201 [main] INFO com.zephyr.reusablemethods.ProjectPage  - Finalising Frmework
+915201 [main] INFO com.zephyr.reusablemethods.ProjectPage  - Finalising Frmework
+915201 [main] INFO com.zephyr.reusablemethods.ProjectPage  - Finalising Frmework
+915201 [main] INFO com.zephyr.reusablemethods.ProjectPage  - Finalising Frmework
+915201 [main] INFO com.zephyr.reusablemethods.ProjectPage  - Finalising Frmework
+915201 [main] INFO com.zephyr.reusablemethods.ProjectPage  - Finalising Frmework
+915201 [main] INFO com.zephyr.reusablemethods.ProjectPage  - Finalising Frmework
+915201 [main] INFO com.zephyr.reusablemethods.ProjectPage  - Finalising Frmework
+915201 [main] INFO com.zephyr.reusablemethods.ProjectPage  - Finalising Frmework
+915201 [main] INFO com.zephyr.reusablemethods.ProjectPage  - Finalising Frmework
+915201 [main] INFO com.zephyr.reusablemethods.ProjectPage  - Finalising Frmework
+915201 [main] INFO com.zephyr.reusablemethods.ProjectPage  - Finalising Frmework
+915201 [main] INFO com.zephyr.reusablemethods.ProjectPage  - Finalising Frmework
+915201 [main] INFO com.zephyr.reusablemethods.ProjectPage  - Finalising Frmework
+915202 [main] INFO com.zephyr.stepdefinition.Logout_TPE  - Pass - User should be logged out from Zephyr Application Successfully
+915202 [main] INFO com.zephyr.stepdefinition.Logout_TPE  - Pass - User should be logged out from Zephyr Application Successfully
+915202 [main] INFO com.zephyr.stepdefinition.Logout_TPE  - Pass - User should be logged out from Zephyr Application Successfully
+915202 [main] INFO com.zephyr.stepdefinition.Logout_TPE  - Pass - User should be logged out from Zephyr Application Successfully
+915202 [main] INFO com.zephyr.stepdefinition.Logout_TPE  - Pass - User should be logged out from Zephyr Application Successfully
+915202 [main] INFO com.zephyr.stepdefinition.Logout_TPE  - Pass - User should be logged out from Zephyr Application Successfully
+915202 [main] INFO com.zephyr.stepdefinition.Logout_TPE  - Pass - User should be logged out from Zephyr Application Successfully
+915202 [main] INFO com.zephyr.stepdefinition.Logout_TPE  - Pass - User should be logged out from Zephyr Application Successfully
+915202 [main] INFO com.zephyr.stepdefinition.Logout_TPE  - Pass - User should be logged out from Zephyr Application Successfully
+915202 [main] INFO com.zephyr.stepdefinition.Logout_TPE  - Pass - User should be logged out from Zephyr Application Successfully
+915202 [main] INFO com.zephyr.stepdefinition.Logout_TPE  - Pass - User should be logged out from Zephyr Application Successfully
+915202 [main] INFO com.zephyr.stepdefinition.Logout_TPE  - Pass - User should be logged out from Zephyr Application Successfully
+915202 [main] INFO com.zephyr.stepdefinition.Logout_TPE  - Pass - User should be logged out from Zephyr Application Successfully
+915202 [main] INFO com.zephyr.stepdefinition.Logout_TPE  - Pass - User should be logged out from Zephyr Application Successfully
+915202 [main] INFO com.zephyr.stepdefinition.Logout_TPE  - Pass - User should be logged out from Zephyr Application Successfully
+915202 [main] INFO com.zephyr.stepdefinition.Logout_TPE  - Pass - User should be logged out from Zephyr Application Successfully
+915202 [main] INFO com.zephyr.stepdefinition.Logout_TPE  - Pass - User should be logged out from Zephyr Application Successfully
+915202 [main] INFO com.zephyr.stepdefinition.Logout_TPE  - Pass - User should be logged out from Zephyr Application Successfully
+915202 [main] INFO com.zephyr.stepdefinition.Logout_TPE  - Pass - User should be logged out from Zephyr Application Successfully
+915202 [main] INFO com.zephyr.stepdefinition.Logout_TPE  - Pass - User should be logged out from Zephyr Application Successfully
+
+3 Scenarios ([32m3 passed[0m)
+23 Steps ([32m23 passed[0m)
+15m15.416s
+
